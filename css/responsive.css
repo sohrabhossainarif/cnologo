@@ -1,0 +1,662 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+  /* navbar responcive start */
+  header {
+    padding: 50px 0px;
+  }
+  .logo_main {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .logo_main img {
+    width: 85%;
+  }
+  .navbar-light .navbar-toggler {
+    border-color: #fff;
+  }
+  .navbar_icon {
+    font-size: 25px;
+    color: #fff;
+  }
+  #navbarSupportedContent ul {
+    text-align: center;
+  }
+  /* index nav part */
+  .banner_nav_main .logo_main img {
+    width: 92% !important;
+  }
+  .banner_nav_main .navbar-toggler {
+    border-color: #000;
+  }
+  .banner_nav_main .navbar-toggler {
+    color: none !important;
+    border-color: none !important;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none !important;
+  }
+  .banner_nav_main ul {
+    background-color: #fff;
+  }
+  /* navbar end */
+  /* index  page  part (min-width:320px) and (max-width:575.98px) start */
+  #index_banner {
+    padding-top: 0px;
+  }
+  .index_text h1 {
+    font-size: 42px;
+  }
+  #index_banner {
+    padding-bottom: 90px;
+  }
+  .main_banner_img img {
+    margin-left: 79px;
+    margin-top: 60px;
+  }
+  .it_service_area {
+    padding-bottom: 0 !important;
+  }
+  #it_section .features-inner-box {
+    margin-top: 50px;
+  }
+  .about-wrap-content .about-bg-text {
+    color: rgb(208, 206, 206);
+    font-size: 41px;
+    top: 26px;
+  }
+  .about-wrap-content h3 {
+    font-size: 32px;
+  }
+  .about-inner-box {
+    margin-top: 0px;
+  }
+  .single-about-card h3 {
+    margin: 15px 0px;
+  }
+  .single-about-card p {
+    margin-bottom: 20px;
+  }
+  #service {
+    padding: 56px 0px 0px;
+  }
+  #services_contact {
+    padding: 0px 0;
+  }
+  .services-bg-text {
+    font-size: 45px;
+  }
+  .services-slides-item {
+    width: 100%;
+  }
+  #process-area {
+    padding: 33px 0px 12px 0px;
+  }
+  .section-bg-text {
+    font-size: 55px;
+    color: rgb(208, 206, 206);
+  }
+  .why_choose_hedar h2 {
+    font-size: 26px;
+  }
+  .choose_main {
+    margin-top: 0;
+  }
+  .choose_item_img {
+    text-align: center;
+  }
+  .choose_item .choose_item_img .number {
+    right: 260px;
+  }
+  #projects {
+    padding: 32px 0px 16px 0px;
+  }
+  .projects-bg-text {
+    color: rgb(208, 206, 206);
+    font-size: 58px;
+    top: 13px;
+  }
+  .projects-section-content h3 {
+    font-size: 28px;
+  }
+  .team_member-bg-text {
+    font-size: 60px;
+    color: rgb(208, 206, 206);
+  }
+  #article {
+    padding: 4px 0px 13px;
+  }
+  .article_head_text h2 {
+    font-size: 30px;
+  }
+  .article_main {
+    margin-top: 0 !important;
+  }
+  .article_item {
+    padding: 30px;
+  }
+  .article_item_content .article_btn {
+    margin-top: 25px;
+  }
+  footer {
+    padding: 0px 0px 20px;
+  }
+  /* index page  part (min-width:320px) and (max-width:575.98px) end */
+  /* about page  part (min-width:320px) and (max-width:575.98px) start */
+  .about_text a {
+    font-size: 24px;
+  }
+  #about_we-are {
+    padding: 30px 0px;
+  }
+  .about_we_are_text {
+    margin-top: 20px;
+  }
+  .about_we_are_text h4 {
+    font-size: 18px;
+  }
+  .about_we_are_text h2 {
+    font-size: 30px;
+  }
+  .why_choose_hedar h4 {
+    font-size: 18px;
+  }
+  .why_choose_hedar h2 {
+    font-size: 30px;
+  }
+  .choose_main {
+    margin-top: 0px !important;
+  }
+  .about_video_main {
+    margin-top: 0px !important;
+  }
+  #about_skill {
+    padding: 30px 0px;
+  }
+  .skill_text h2 {
+    font-size: 30px;
+  }
+  #pricing {
+    padding: 32px 0px 20px 0px;
+  }
+  .pricing_head h2 {
+    font-size: 33px;
+  }
+  /* about page  part (min-width:320px) and (max-width:575.98px) end */
+
+  /* service page  part (min-width:320px) and (max-width:575.98px) start */
+  .services_banner_text h2 {
+    font-size: 32px;
+  }
+  .services_services2_text h2 {
+    font-size: 22px;
+  }
+  .services_question_text h2 {
+    font-size: 23px;
+    line-height: 36px;
+  }
+  #services_question {
+    padding: 20px 0px 100px;
+  }
+  .services_question_text {
+    padding: 2px 0;
+  }
+  /* service page  part (min-width:320px) and (max-width:575.98px) end */
+  /* projects page  part (min-width:320px) and (max-width:575.98px) start */
+  #contact-tab {
+    padding: 20px 0;
+  }
+  .Projects_text h2 {
+    font-size: 20px;
+  }
+  .tap_btn {
+    margin: 10px 0;
+  }
+  .one {
+    padding: 6px 11px;
+    margin: 8px 6px;
+  }
+  /* projects page  part (min-width:320px) and (max-width:575.98px) end */
+  /* team page  part (min-width:320px) and (max-width:575.98px) end */
+  .team_banner_text h1 {
+    font-size: 40px;
+  }
+  #team_member {
+    padding: 28px 0px 20px;
+  }
+  .member_text h2 {
+    font-size: 28px;
+    margin-bottom: 12px;
+  }
+  /* team page  part (min-width:320px) and (max-width:575.98px) end */
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .logo_main {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .navbar-light .navbar-toggler {
+    border-color: #fff;
+  }
+  .navbar_icon {
+    font-size: 25px;
+    color: #fff;
+  }
+  #navbarSupportedContent ul {
+    text-align: center;
+  }
+  /* index nav part */
+  .banner_nav_main .logo_main img {
+    width: 92% !important;
+  }
+  .banner_nav_main .navbar-toggler {
+    border-color: #000;
+  }
+  .banner_nav_main .navbar-toggler {
+    color: none !important;
+    border-color: none !important;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none !important;
+  }
+  .banner_nav_main ul {
+    background-color: #fff;
+  }
+  /* navbar part end */
+  /* index  page  part (min-width:576px) and (max-width:767px) start */
+  #index_banner {
+    padding-top: 0px;
+  }
+  .index_text h1 {
+    font-size: 54px;
+  }
+  .it_service_area {
+    padding-bottom: 0px !important ;
+  }
+  .about-wrap-content .about-bg-text {
+    color: #dddadd;
+    font-size: 38px;
+    top: 26px;
+  }
+  .about-wrap-content h3 {
+    font-size: 40px;
+  }
+  .about-inner-box {
+    margin-top: 0px;
+  }
+  .single-about-card h3 {
+    margin: 15px 0px;
+  }
+  .single-about-card p {
+    margin-bottom: 20px;
+  }
+  #service {
+    padding: 42px 0px;
+  }
+  .services-bg-text {
+    color: #929191dd;
+    font-size: 40px;
+  }
+  .services-conten h3 {
+    font-size: 34px;
+  }
+  .services-slides {
+    margin-top: 20px;
+  }
+  .services-slides-item {
+    width: 100%;
+  }
+  #process-area {
+    padding: 34px 0px 12px 0px;
+  }
+  .section-bg-text {
+    color: #ddd;
+    font-size: 40px;
+  }
+  #projects {
+    padding: 36px 0px 12px 0px;
+  }
+  .projects-bg-text {
+    color: #ddd;
+    font-size: 40px;
+    top: 11px;
+  }
+  .team_member-bg-text {
+    color: #ddd;
+    font-size: 48px;
+    left: 35%;
+  }
+  #article {
+    padding: 5px 0px 37px;
+  }
+  .article_item_content {
+    padding: 20px;
+  }
+  footer {
+    padding: 10px 0px 20px;
+  }
+  /* index page  part (min-width:576px) and (max-width:767px) end */
+
+  /* about page  part (min-width:576px) and (max-width:767px) start */
+  .about_text a {
+    font-size: 24px;
+  }
+  #about_we-are {
+    padding: 40px 0px;
+  }
+  .about_we_are_text {
+    margin-top: 30px;
+  }
+  .about_we_are_text h2 {
+    font-size: 34px;
+  }
+  .why_choose_hedar h2 {
+    font-size: 34px;
+  }
+  .choose_item p {
+    text-align: justify;
+  }
+  .choose_main {
+    margin-top: 0px !important;
+  }
+  #about_skill {
+    padding: 40px 0px;
+  }
+  .skill_text h2 {
+    font-size: 35px;
+  }
+  #pricing {
+    padding: 35px 0px 25px 0px;
+  }
+  .pricing_head h2 {
+    font-size: 36px;
+  }
+  /* about page  part (min-width:576px) and (max-width:767px) end */
+  /* service page  part (min-width:576px) and (max-width:767px) start */
+  .services_banner_text h2 {
+    font-size: 42px;
+  }
+  .services_services2_text h2 {
+    font-size: 36px;
+  }
+  .services_question_text h2 {
+    font-size: 30px;
+  }
+  /* service page  part (min-width:576px) and (max-width:767px) end */
+  /* projcet page  part (min-width:576px) and (max-width:767px) start */
+  #contact-tab {
+	padding: 34px 0;
+}
+  .one {
+	padding: 6px 10px;
+	margin: 8px 0px;
+}
+#services_question {
+	padding: 20px 0;
+}
+  /*projcet  page  part (min-width:576px) and (max-width:767px) end */
+
+  /* team page part (min-width:576px)and(max-width:767px) start */
+  .team_banner_text h1 {
+    font-size: 56px;
+  }
+  #team_member {
+    padding: 28px 0px 20px;
+  }
+  .member_text h2 {
+    font-size: 36px;
+  }
+  /* team page part (min-width:576px) and (max-width:767px) end */
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .logo_main {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .navbar-light .navbar-toggler {
+    border-color: #fff;
+  }
+  .navbar_icon {
+    font-size: 25px;
+    color: #fff;
+  }
+  #navbarSupportedContent ul {
+    text-align: center;
+  }
+  /* index navbar part  */
+  .banner_nav_main .logo_main img {
+    width: 92% !important;
+  }
+  .banner_nav_main .navbar-toggler {
+    border-color: #000;
+  }
+  .banner_nav_main .navbar-toggler {
+    color: none !important;
+    border-color: none !important;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none !important;
+  }
+  .banner_nav_main ul {
+    background-color: #fff;
+  }
+  /* navbar part end */
+  /* index page  part (min-width:768px) and (max-width:991.98px) start */
+  #index_banner {
+    padding-top: 50px;
+  }
+  .index_text h1 {
+    font-size: 60px;
+  }
+  .about-wrap-content .about-bg-text {
+    color: #c7c7c7;
+    font-size: 45px;
+    top: 26px;
+  }
+  .about-inner-box {
+    margin-top: 0px;
+  }
+  .about-wrap-content {
+    margin-top: 20px;
+  }
+  .single-about-card .about-btn {
+    margin: 25px 0px;
+  }
+  #service {
+    padding: 48px 0px;
+  }
+  .services-bg-text {
+    color: #5f5f5f;
+    font-size: 50px;
+  }
+  .services-slides {
+    margin-top: 20px;
+  }
+  #process-area {
+    padding: 40px 0px 16px 0px;
+  }
+  .section-bg-text {
+    color: #c5c5c5;
+    font-size: 52px;
+  }
+  #projects {
+    padding: 36px 0px 0px 0px;
+  }
+  .projects-bg-text {
+    color: #c5c5c5;
+    font-size: 60px;
+    top: 17px;
+  }
+  .team_member-bg-text {
+    color: #c5c5c5;
+    font-size: 55px;
+    left: 37%;
+  }
+  #article {
+    padding: 14px 0px 30px;
+  }
+  .article_item_content .article_btn {
+    margin: 25px 0px;
+  }
+  footer {
+    padding: 10px 0px 20px;
+  }
+  /* index page  part  (min-width:768px) and (max-width:991.98px) end */
+
+  /* about page  part (min-width:768px) and (max-width:991.98px) start */
+  #about_we-are {
+    padding: 30px 0px;
+  }
+  .about_we_are_text {
+    margin-top: 40px;
+  }
+  #about_skill {
+    padding: 30px 0px;
+  }
+  #pricing {
+    padding: 40px 0px 20px 0px;
+  }
+  /* about page  part (min-width:768px) and (max-width:991.98px) end */
+/* projcet page */
+.one {
+	margin: 0 5px;
+}
+/* projcet page */
+  /* team page part (min-width:768px) and (max-width:991px) start */
+  #team_member {
+    padding: 34px 0px 20px;
+  }
+  /* team page part (min-width:768px) and (max-width:991px) end */
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* index page part (min-width:992px) and (max-width:1199.98px) start */
+  .index_text h1 {
+    font-size: 56px;
+  }
+  .single-features-card .content h3 {
+    font-size: 17px;
+  }
+  .single-features-card .content p {
+    font-size: 14px;
+    text-align: justify;
+  }
+  #process-area {
+    padding: 50px 0px 20px 0px;
+  }
+  .about-wrap-content .about-bg-text {
+    color: #c0c0c0;
+    font-size: 55px;
+  }
+  .services-bg-text {
+    font-size: 50px;
+  }
+  .section-bg-text {
+    color: #cacaca;
+    font-size: 62px;
+  }
+  .why_choose_hedar h2 {
+    font-size: 38px;
+  }
+  .choose_item .choose_item_img .number {
+    right: 37px;
+  }
+  #projects {
+    padding: 32px 0px 42px 0px;
+  }
+  .projects-bg-text {
+    color: #cacaca;
+    font-size: 50px;
+    top: 14px;
+  }
+  .projects-section-content h3 {
+    font-size: 30px;
+  }
+  #team_member {
+    padding: 32px 0px 20px;
+  }
+  .team_member-bg-text {
+    color: #f7f7f8;
+    font-size: 95px;
+    left: 28%;
+  }
+  #article {
+    padding: 23px 0px 14px;
+  }
+footer {
+	padding: 70px 0px 20px;
+}
+  /* index page part (min-width:992px) and (max-width:1199.98px) end */
+
+  /* about page part (min-width:992px) and (max-width:1199.98px) start */
+  #about_we-are {
+    padding: 35px 0px;
+    background: url(../images/about\ who-we\ are-.png) no-repeat center / cover;
+  }
+  .about_we_are_text {
+    margin-top: 0px;
+  }
+  .about_we_are_text h2 {
+    font-size: 36px;
+  }
+  #about_skill {
+    padding: 32px 0px;
+  }
+  .skill_text h2 {
+    font-size: 36px;
+  }
+  #pricing {
+    padding: 45px 0px 10px 0px;
+  }
+  .pricing_head h2 {
+    font-size: 44px;
+  }
+  /* about page part (min-width:992px) and (max-width:1199.98px) end*/
+  /* service page part (min-width:992px) and (max-width:1199.98px) start*/
+  .services_banner_text h2 {
+    font-size: 54px;
+  }
+  .services_question_text h2 {
+    font-size: 35px;
+  }
+  #services_question {
+    padding: 35px 0;
+  }
+  /* service page part (min-width:992px) and (max-width:1199.98px) end*/
+
+  /* team page part (min-width:992px) and (max-width:1199.98px) start*/
+  #team_member {
+    padding: 42px 0px 20px;
+  }
+  /* team page part (min-width:992px) and (max-width:1199.98px) end*/
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .about-wrap-content .about-bg-text {
+    font-size: 66px;
+  }
+  .services-bg-text {
+    font-size: 71px;
+  }
+  .section-bg-text {
+    font-size: 72px;
+  }
+  #process-area {
+    padding: 60px 0px 75px 0px;
+  }
+  .projects-bg-text {
+    font-size: 65px;
+    top: 8px;
+  }
+  #team_member {
+    padding: 1px 0px 20px;
+  }
+  .team_member-bg-text {
+    font-size: 79px;
+    left: 33%;
+  }
+  #article {
+    padding: 33px 0px 40px;
+  }
+}
+@media (max-width: 1400px) {
+  .services-bg-text {
+    font-size: 66px;
+  }
+}
