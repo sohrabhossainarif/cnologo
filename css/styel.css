@@ -134,9 +134,8 @@ header {
 }
 .bg_main {
   position: fixed;
-  width: 100%;
   animation: bg_main 1s;
-    background-color: #14042c !important;
+  background-color: #14042c !important;
   -webkit-animation: bg_main 1s;
   z-index: 111;
 }
@@ -198,7 +197,7 @@ header {
 .banner_nav {
   position: fixed;
   width: 100%;
-  background-color: #fff ;
+  background-color: #fff;
   animation: banner_nav 1s;
   -webkit-animation: banner_nav 1s;
   z-index: 111;
